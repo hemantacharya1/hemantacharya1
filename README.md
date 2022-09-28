@@ -25,7 +25,7 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemantacharya1&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemantacharya&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
