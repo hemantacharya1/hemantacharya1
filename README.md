@@ -12,7 +12,7 @@
 - 📫 How to reach me <b>(hemantacharya882@gmail.com)</b> : Check social links below.
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-acharya-847224234/) [![Twitter](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPratikSontakke_)](https://twitter.com/PratikSontakke_) ![Gmail](https://img.shields.io/badge/hemantacharya882@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-acharya-847224234/) [![Twitter](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPratikSontakke_)](https://twitter.com/hemant__acharya) ![Gmail](https://img.shields.io/badge/hemantacharya882@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hemant__acharya/?hl=en)  -->
 
 ## 💻 Tech Stack
