@@ -4,8 +4,7 @@
          width="45" /> I'm Hemant Acharya</h1>
 
 # 💫 About Me : 
-- 🔭 I’m currently building [Deccan Herald](https://bespoke-sorbet-dce52b.netlify.app/).
-- 🌱 I’m currently learning more about Java.
+- 🌱 I’m currently learning more about Java,SpringBoot.
 - 👯 I’m looking to collaborate on Backend Projects.
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://hemantacharya1.github.io/)**
 - ⚡ Fun fact: I make people laugh.
